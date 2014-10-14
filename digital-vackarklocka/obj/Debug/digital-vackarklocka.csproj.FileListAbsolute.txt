@@ -1,0 +1,6 @@
+P:\uppgifter\1dv402-js223mi-2-2-digital-vackarklocka\digital-vackarklocka\bin\Debug\digital-vackarklocka.exe.config
+P:\uppgifter\1dv402-js223mi-2-2-digital-vackarklocka\digital-vackarklocka\bin\Debug\digital-vackarklocka.exe
+P:\uppgifter\1dv402-js223mi-2-2-digital-vackarklocka\digital-vackarklocka\bin\Debug\digital-vackarklocka.pdb
+P:\uppgifter\1dv402-js223mi-2-2-digital-vackarklocka\digital-vackarklocka\obj\Debug\digital-vackarklocka.csprojResolveAssemblyReference.cache
+P:\uppgifter\1dv402-js223mi-2-2-digital-vackarklocka\digital-vackarklocka\obj\Debug\digital-vackarklocka.exe
+P:\uppgifter\1dv402-js223mi-2-2-digital-vackarklocka\digital-vackarklocka\obj\Debug\digital-vackarklocka.pdb
